@@ -6,4 +6,4 @@ CAUTION: During the first turn of both players, they are not allowed to choose t
 
 ###################################################################################
 
-Using algorithm to avoid repeating the code
+Using algorithm to avoid repeating the code as least as possible in my ability
